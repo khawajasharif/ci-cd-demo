@@ -5,3 +5,4 @@ def test_add():
     assert add(-1, 1) == 0
     assert add(0, 0) == 0
     assert add(20,60) == 80
+    assert add(90,40) == 130
